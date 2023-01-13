@@ -1,0 +1,12 @@
+C:\Users\kelsey\source\repos\GoogleChecker\GoogleChecker\bin\Debug\netcoreapp3.1\GoogleChecker.exe
+C:\Users\kelsey\source\repos\GoogleChecker\GoogleChecker\bin\Debug\netcoreapp3.1\GoogleChecker.deps.json
+C:\Users\kelsey\source\repos\GoogleChecker\GoogleChecker\bin\Debug\netcoreapp3.1\GoogleChecker.runtimeconfig.json
+C:\Users\kelsey\source\repos\GoogleChecker\GoogleChecker\bin\Debug\netcoreapp3.1\GoogleChecker.runtimeconfig.dev.json
+C:\Users\kelsey\source\repos\GoogleChecker\GoogleChecker\bin\Debug\netcoreapp3.1\GoogleChecker.dll
+C:\Users\kelsey\source\repos\GoogleChecker\GoogleChecker\bin\Debug\netcoreapp3.1\GoogleChecker.pdb
+C:\Users\kelsey\source\repos\GoogleChecker\GoogleChecker\obj\Debug\netcoreapp3.1\GoogleChecker.AssemblyInfoInputs.cache
+C:\Users\kelsey\source\repos\GoogleChecker\GoogleChecker\obj\Debug\netcoreapp3.1\GoogleChecker.AssemblyInfo.cs
+C:\Users\kelsey\source\repos\GoogleChecker\GoogleChecker\obj\Debug\netcoreapp3.1\GoogleChecker.csproj.CoreCompileInputs.cache
+C:\Users\kelsey\source\repos\GoogleChecker\GoogleChecker\obj\Debug\netcoreapp3.1\GoogleChecker.dll
+C:\Users\kelsey\source\repos\GoogleChecker\GoogleChecker\obj\Debug\netcoreapp3.1\GoogleChecker.pdb
+C:\Users\kelsey\source\repos\GoogleChecker\GoogleChecker\obj\Debug\netcoreapp3.1\GoogleChecker.genruntimeconfig.cache
